@@ -1,0 +1,41 @@
+article {
+    background-color: #082378;
+    border-radius: 15px;
+    border: #fff solid 3px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 65%;
+}
+
+body {
+    background-color: #4581A5;
+    background-image: url("background.webp");
+    background-repeat: repeat;
+    color: #a0a0f0;
+    font-family: 'Roboto';
+    margin: 0%;
+    width: 100%;
+}
+
+header {
+    margin: auto;
+    font-size: large;
+    width: 95%;
+    text-align: center;
+    color: #FEc818;
+    border-color: #05155f;
+    border-radius: 5px;
+    border-width: 3px;
+}
+
+.code {
+    border-radius: 5px;
+    background-color: #000000;
+    padding: 10px;
+}
+
+.content {
+    padding: 10px;
+}
